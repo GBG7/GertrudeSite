@@ -1,12 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Taha's Personal Portfolio
+## Taha's Site Portfolio
 
-My personal portfolio website highlighting my accomplishments and achievements. 
+Gertrude Site
 
-To view, visit 
+https://gertrude-site.vercel.app/
 
-www.tahasarfraz.ca
 
 **or**
 
